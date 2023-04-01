@@ -1,0 +1,12 @@
+html, body {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: linear-gradient(0deg, lightskyblue, lightyellow);
+}
+canvas {
+/*   border: 1px solid #000; */
+  background-color: #fff;
+  border-radius: 8px;
+}
